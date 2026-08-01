@@ -14,17 +14,17 @@ To independently verify our reported results, please download the necessary reso
 
 ### Dataset
 
-* **Download Link:** [Google Drive Link to Dataset](https://drive.google.com/file/d/1GKYdNMy1Z8kZSNu_j_yn0UWIDfd4SXSq/view?usp=drive_link)
+* **Download Link:** [Zenodo Link to Dataset (DOI: 10.5281/zenodo.21736947)](https://doi.org/10.5281/zenodo.21736947)
 * **Description:** Contains the test split of the simulated GPR dataset with corresponding annotations.
-* **Usage:** Extract the dataset and place it in the `datasets/` directory of your project root.
+* **Usage:** Extract the `dataset.zip` and place it in the `datasets/` directory of your project root.
 
-> **Data Availability Statement:** The simulated dataset utilized in this study is available from the corresponding author upon reasonable request for non-commercial academic purposes. However, the field-measured datasets involve proprietary engineering data and sensitive geological information from an actual tunnel project currently under construction. Due to strict confidentiality agreements with the collaborating engineering entities, the field data cannot be made publicly available at this time.
+> **Data Availability Statement:** The simulated dataset and trained model weights utilized in this study have been permanently archived on Zenodo. Due to previous instances of malicious commercial use, we have implemented a "Restricted Access" setting. Legitimate academic researchers can request access for non-commercial purposes directly via the Zenodo page. However, the field-measured datasets involve proprietary engineering data and sensitive geological information from an actual tunnel project currently under construction. Due to strict confidentiality agreements with the collaborating engineering entities, the field data cannot be made publicly available at this time.
 
 ### Pretrained Weights (.pt)
 
-* **Download Link:** [Google Drive Link to Weights](https://drive.google.com/file/d/1FAVRP-pKhP9bsaiUZW572mybUQleJcpf/view?usp=drive_link)
+* **Download Link:** [Zenodo Link to Weights (DOI: 10.5281/zenodo.21736947)](https://doi.org/10.5281/zenodo.21736947)
 * **Description:** Includes the trained model weights for the full YOLO-GTGP model and its ablation variants.
-* **Usage:** Place the `.pt` files directly into the `weights/` directory.
+* **Usage:** Extract the `weights.zip` and place the `.pt` files directly into the `weights/` directory.
 
 ---
 
